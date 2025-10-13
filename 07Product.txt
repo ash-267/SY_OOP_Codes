@@ -1,0 +1,11 @@
+Product name: abcd
+Product ID: 1
+Quantity: 3
+Displaying product details:
+Product name: efgh
+Product ID: 2
+Quantity: 6
+Displaying product details:
+Product name: ijkl
+Product ID: 3
+Quantity: 4
